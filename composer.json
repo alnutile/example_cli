@@ -1,5 +1,5 @@
 {
-    "name": "alnutile/example",
+    "name": "alnutile/example_cli",
     "type": "library",
     "description": "Foo",
     "keywords": [
