@@ -34,15 +34,15 @@
     "autoload": {
         "psr-4": {
             "Alnutile\\Example\\": "src"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Alnutile\\Example\\": "tests"
         },
         "files": [
             "bootstrap/helpers.php"
         ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Alnutile\\Example\\": "tests"
+        }
     },
     "scripts": {
         "test": "phpunit",
